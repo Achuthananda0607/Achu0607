@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Outsourcing - India to Abroad</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <h1>Welcome to Our Outsourcing Business</h1>
+        <p>Your reliable partner for outsourcing from India to the world.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Outsourcing Business. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Business Outsourcing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="about">
+        <h2>About Our Business</h2>
+        <p>We specialize in outsourcing business services from India to clients all over the world. Our mission is to provide top-quality solutions at competitive prices.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Outsourcing Business. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Business Outsourcing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Business Process Outsourcing (BPO)</li>
+            <li>Customer Support Services</li>
+            <li>Data Entry and Management</li>
+            <li>IT and Software Development</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Outsourcing Business. All rights reserved.</p>
+    </footer>
+</body>
+</htm<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Business Outsourcing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:Achuthananda0607@gmail.com">Achuthananda0607@gmail.com</a></p>
+        <p>Phone: <a href="tel:+917892088682">7892088682</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Outsourcing Business. All rights reserved.</p>
+    </footer>
+</body>
+</html>l>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Business Outsourcing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:Achuthananda0607@gmail.com">Achuthananda0607@gmail.com</a></p>
+        <p>Phone: <a href="tel:+917892088682">7892088682</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Outsourcing Business. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #333;
+}
+
+header {
+    background-color: #ff9933; /* Saffron from India's flag */
+    padding: 20px;
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background-color: #000080; /* Navy blue (US flag) */
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+footer {
+    background-color: #ff9933; /* Saffron from India's flag */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h1, h2 {
+    font-size: 2.5em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.services, .about, .contact {
+    padding: 30px;
+    text-align: center;
+}
+
+.services ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.services ul li {
+    margin: 10px 0;
+}
